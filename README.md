@@ -59,3 +59,15 @@ python data_structures_tool.py
 ```
 
 ---
+
+## Summary
+
+- Demonstrates Deterministic Selection (Median-of-Medians) and Randomized Quickselect, with built-in benchmarking.
+- Highlights trade-offs between guaranteed O(n) performance and fast average-case selection.
+- Implements four core data structures: Array, Stack, Queue, and Singly Linked List.
+- Offers a menu-driven, colorized interactive CLI to practice operations dynamically.
+- Visualizes structural changes after each operation, reinforcing learning.
+- Includes strong error handling, input validation, and safe program exit.
+- Designed to support academic understanding through hands-on exploration of algorithms and data structures.
+
+---
