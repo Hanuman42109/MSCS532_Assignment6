@@ -4,7 +4,7 @@ This repository contains two fully interactive, menu-driven Python tools develop
 
 ---
 
-## 📌 **Part 1 – Order Statistics Selection Tool **  
+## 📌 Part 1 – Order Statistics Selection Tool
 **File:** `selection_dynamic.py`
 
 This program implements and compares two classic selection algorithms for finding the **k-th smallest element** in an unsorted array:
