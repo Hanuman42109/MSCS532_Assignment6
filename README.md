@@ -26,7 +26,7 @@ This program implements and compares two classic selection algorithms for findin
 
 ---
 
-## 🧰 **Part 2 – Elementary Data Structures Tool **  
+## 🧰 Part 2 – Elementary Data Structures Tool
 **File:** `data_structures_tool.py`
 
 Interactive CLI tool for:
